@@ -16,7 +16,16 @@ This repository contains a high-level overview of the project, exploratory data 
 
 \---
 
+##  Project Collaboration
 
+This project was developed as part of a collaborative group project.
+
+My individual contributions included:
+
+- Exploratory Data Analysis (EDA)
+- Model evaluation and comparison (ARIMA vs Prophet)
+- Interpretation of forecasting results
+- Business insights and recommendations
 
 \## Project Overview
 
